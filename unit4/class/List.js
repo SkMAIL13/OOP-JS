@@ -5,7 +5,7 @@ class List {
     render () {
         let ul = document.createElement('ul');  
         for (let i = 0; i < this.item.length; i++){
-            let li = document.querySelector('li');
+            let li = document.createElement('li');
             li.innerHTML = this.item[i];
             ul.append(li)
         }
