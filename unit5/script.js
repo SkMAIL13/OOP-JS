@@ -13,3 +13,6 @@
 //console.log(test2.setTestProp(''));
 //console.log(test2);
 
+//Task-3
+//console.log(test2.testProp);
+
