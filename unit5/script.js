@@ -16,3 +16,8 @@
 //Task-3
 //console.log(test2.testProp);
 
+//Task-4
+//const test3 = new Test3();
+//console.log(test3.testProp = 'zzz');
+//console.log(test3);
+//console.log(test3.testProp);
