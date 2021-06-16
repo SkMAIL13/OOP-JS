@@ -1,0 +1,8 @@
+console.log(Validate.isNumber("a"))
+console.log(Validate.isInt(22))
+console.log(Validate.isFloat(2.5))
+console.log(Validate.isChar("a"))
+console.log(Validate.isString('a'))
+console.log(Validate.isBoolean('as'))
+console.log(Validate.isArray(['a']))
+console.log(Validate.toMoney(1111.1))
